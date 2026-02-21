@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Londel's Restaurant Menu</title>
+</head>
+
+<body>
+
+    <!-- Restaurant Info -->
+    <h1>Londel's</h1>
+    <p><strong>Address:</strong> 2620 Frederick Douglass Blvd, New York, NY 10030</p>
+    <p><strong>Phone:</strong> +1 (212) 234-6114</p>
+
+    <hr>
+
+    <!-- APPETIZERS -->
+    <h2>Appetizers</h2>
+    <p>Spicy Crab Cakes — $10.95</p>
+    <p>Chicken Fingers — $6.50</p>
+    <p>Buffalo Wings — $7.50</p>
+    <p>Garden Salad — $4.95</p>
+    <p>Soup Du Jour (Cup) — $3.00</p>
+    <p>Soup Du Jour (Bowl) — $4.95</p>
+
+    <hr>
+
+    <!-- ENTREES FISH -->
+    <h2>Entrees — Fish</h2>
+    <p>Pan Seared Salmon topped w/ coriander butter — $22.95</p>
+    <p>Shrimp Scampi w/ lemon, butter, chives & breadcrumbs — $22.95</p>
+    <p>Jumbo Fried Shrimp — $22.95</p>
+    <p>Sauteed Tilapia — $16.95</p>
+    <p>Blackened Catfish w/ special spicy seasonings — $19.95</p>
+
+    <hr>
+
+    <!-- ENTREES CHICKEN -->
+    <h2>Entrees — Chicken</h2>
+    <p>Grilled Breast of Chicken with Dijon Mustard Cream — $11.95</p>
+    <p>Grilled Chicken Salad — $11.95</p>
+    <p>Southern Fried Chicken — $13.95</p>
+
+    <hr>
+
+    <!-- ENTREES MEAT -->
+    <h2>Entrees — Meat</h2>
+    <p>Flame Grilled Shell Steak w/ sauteed mushrooms & onions — $23.95</p>
+    <p>Honey Barbequed Baby Back Ribs — $17.95</p>
+    <p>Center-cut Pork Chops (Smothered or Fried) — $19.95</p>
+
+    <hr>
+
+    <!-- SIDES -->
+    <h2>Sides</h2>
+    <p>Vegetable Du Jour — $4.00</p>
+    <p>Country Collard Greens — $4.00</p>
+    <p>Sauteed Spinach — $4.00</p>
+    <p>Baked Macaroni & Cheese — $4.00</p>
+    <p>Yellow Rice Medley — $4.00</p>
+    <p>Candied Yams — $4.00</p>
+    <p>Baked Idaho Potato — $4.00</p>
+    <p>Potato Salad — $4.00</p>
+
+    <hr>
+
+    <!-- HOURS -->
+    <h2>Hours</h2>
+    <ul>
+        <li>Saturday: 12–9 PM</li>
+        <li>Sunday: 12–6 PM</li>
+        <li>Monday: Closed</li>
+        <li>Tuesday: Closed</li>
+        <li>Wednesday: 5–10:30 PM</li>
+        <li>Thursday: 5–10:30 PM</li>
+        <li>Friday: 5–10:30 PM</li>
+    </ul>
+
+    <hr>
+
+    <!-- ACCESSIBILITY -->
+    <h2>Accessibility</h2>
+    <ul>
+        <li>Wheelchair accessible entrance</li>
+        <li>Wheelchair accessible restroom</li>
+        <li>Wheelchair accessible seating</li>
+    </ul>
+
+    <!-- SERVICE OPTIONS -->
+    <h2>Service Options</h2>
+    <ul>
+        <li>Outdoor seating</li>
+        <li>Onsite services</li>
+        <li>Takeout</li>
+        <li>Dine-in</li>
+    </ul>
+
+    <!-- HIGHLIGHTS -->
+    <h2>Highlights</h2>
+    <ul>
+        <li>Fast service</li>
+        <li>Great beer selection</li>
+        <li>Great cocktails</li>
+        <li>Great wine list</li>
+        <li>Serves local specialty</li>
+    </ul>
+
+    <!-- POPULAR FOR -->
+    <h2>Popular For</h2>
+    <ul>
+        <li>Lunch</li>
+        <li>Dinner</li>
+        <li>Solo dining</li>
+    </ul>
+
+    <!-- OFFERINGS -->
+    <h2>Offerings</h2>
+    <ul>
+        <li>Alcohol, Beer, Cocktails, Wine</li>
+        <li>Coffee</li>
+        <li>Comfort food</li>
+        <li>Happy hour drinks & food</li>
+        <li>Hard liquor</li>
+        <li>Healthy options</li>
+        <li>Late-night food</li>
+        <li>Quick bite & Small plates</li>
+    </ul>
+
+    <!-- DINING OPTIONS -->
+    <h2>Dining Options</h2>
+    <ul>
+        <li>Brunch, Lunch, Dinner</li>
+        <li>Catering</li>
+        <li>Dessert</li>
+        <li>Seating & Table service</li>
+    </ul>
+
+    <!-- AMENITIES -->
+    <h2>Amenities</h2>
+    <ul>
+        <li>Bar onsite</li>
+        <li>Restroom</li>
+    </ul>
+
+    <!-- ATMOSPHERE -->
+    <h2>Atmosphere</h2>
+    <ul>
+        <li>Casual</li>
+        <li>Cozy</li>
+        <li>Historic</li>
+        <li>Romantic</li>
+        <li>Trendy</li>
+        <li>Upscale</li>
+    </ul>
+
+    <!-- CROWD -->
+    <h2>Crowd</h2>
+    <ul>
+        <li>Family-friendly</li>
+        <li>Groups</li>
+        <li>Tourists</li>
+    </ul>
+
+    <!-- PLANNING -->
+    <h2>Planning</h2>
+    <ul>
+        <li>Brunch reservations recommended</li>
+        <li>Dinner reservations recommended</li>
+        <li>Accepts reservations</li>
+    </ul>
+
+    <!-- PAYMENTS -->
+    <h2>Payments</h2>
+    <ul>
+        <li>Credit cards</li>
+        <li>Debit cards</li>
+        <li>NFC mobile payments</li>
+    </ul>
+
+    <!-- CHILDREN -->
+    <h2>Children</h2>
+    <ul>
+        <li>Good for kids</li>
+        <li>High chairs available</li>
+    </ul>
+
+    <!-- PARKING -->
+    <h2>Parking</h2>
+    <ul>
+        <li>Free street parking</li>
+        <li>Parking can be somewhat difficult to find</li>
+    </ul>
+
+    <hr>
+
+    <!-- REVIEWS -->
+    <h2>Customer Reviews</h2>
+
+    <p><strong>Orias Strungys (5 reviews)</strong></p>
+    <p>
+        Went for the first time on 01/22/2026 with my spouse. Service was excellent.
+        TeAra the general manager, her husband, and bartender Kwame were excellent.
+        Beverages were highly recommended. Perfect for a nice night or meetings.
+    </p>
+
+    <p><strong>Latasha Fisher-Ruiz (Local Guide)</strong></p>
+    <p>
+        I came here for a private event; it was truly lovely. The food was delicious
+        and Londel was humorous and respectable. I see why many people enjoy coming here.
+    </p>
+
+</body>
+</html>
