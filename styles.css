@@ -1,56 +1,74 @@
-restaurant-site/
-   index.html
-   styles.css
-
-/* Page background */
+/* ===== GENERAL PAGE STYLE ===== */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #f5f2ea;
     margin: 40px;
     color: #333;
 }
 
-/* Restaurant title */
-h1 {
+/* ===== HEADER ===== */
+header {
+    background-color: darkred;
+    color: white;
     text-align: center;
-    color: darkred;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+h1 {
+    margin: 0;
     font-size: 48px;
 }
 
-/* Section titles */
+header p {
+    font-size: 18px;
+}
+
+/* ===== SECTION TITLES ===== */
 h2 {
     color: #8b0000;
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
+    margin-top: 35px;
 }
 
-/* Menu items */
+/* ===== MENU ITEMS ===== */
 p {
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 6px 0;
     font-size: 18px;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
-/* Lists */
+/* ===== LIST SECTIONS ===== */
 ul {
     background-color: white;
-    padding: 15px;
+    padding: 15px 25px;
     border-radius: 8px;
 }
 
-/* Divider line */
-hr {
-    margin: 30px 0;
-}
-/* Menu styling */
-h2 {
-    background-color: #fff;
-    padding: 10px;
-    border-radius: 6px;
+li {
+    margin: 6px 0;
+    font-size: 17px;
 }
 
-p {
-    background-color: white;
-    padding: 8px;
-    border-radius: 5px;
-    margin: 6px 0;
+/* ===== DIVIDER ===== */
+hr {
+    margin: 30px 0;
+    border: none;
+    border-top: 2px solid #ddd;
+}
+
+/* ===== REVIEW BOXES ===== */
+strong {
+    color: darkred;
+}
+
+/* ===== HOVER EFFECT (makes site feel modern) ===== */
+p:hover {
+    background-color: #fff3f3;
+    transition: 0.3s;
 }
