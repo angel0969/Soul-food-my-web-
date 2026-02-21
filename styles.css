@@ -1,0 +1,52 @@
+/* Page background */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f2ea;
+    margin: 40px;
+    color: #333;
+}
+
+/* Restaurant title */
+h1 {
+    text-align: center;
+    color: darkred;
+    font-size: 48px;
+}
+
+/* Section titles */
+h2 {
+    color: #8b0000;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+/* Menu items */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Lists */
+ul {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* Divider line */
+hr {
+    margin: 30px 0;
+}
+/* Menu styling */
+h2 {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+p {
+    background-color: white;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 6px 0;
+}
